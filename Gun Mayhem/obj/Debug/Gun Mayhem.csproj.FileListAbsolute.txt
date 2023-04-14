@@ -1,0 +1,11 @@
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.AssemblyReference.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.SuggestedBindingRedirects.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.CoreCompileInputs.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\bin\Debug\Gun Mayhem.exe.config
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\bin\Debug\Gun Mayhem.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\bin\Debug\Gun Mayhem.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\bin\Debug\EZInput.dll
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\bin\Debug\EZInput.xml
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.csproj.CopyComplete
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Gun Mayhem\obj\Debug\Gun Mayhem.pdb

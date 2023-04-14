@@ -1,0 +1,2 @@
+shirt,12,10,casual,pak
+kurta,25,5,luxury,pak

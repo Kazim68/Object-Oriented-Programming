@@ -1,0 +1,5 @@
+shirt,10,5
+jeans,10,8
+jacket,8,15
+hoodie,5,12
+suit,5,20
