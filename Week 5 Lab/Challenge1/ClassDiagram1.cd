@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Challenge1.BL.DegreeProgram">
+    <Position X="1" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\DegreeProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.BL.Student">
+    <Position X="6" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAAAAQAAABAAAAEAAAAAEEAAAAAAAAAAAAAI=</HashCode>
+      <FileName>BL\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Challenge1.BL.Subject">
+    <Position X="3.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>BL\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,22 @@
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\bin\Debug\Task2.exe.config
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\bin\Debug\Task2.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\bin\Debug\Task2.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\bin\Debug\EZInput.dll
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\bin\Debug\EZInput.xml
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week3 PD\Task2\obj\Debug\Task2.csproj.CopyComplete
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\bin\Debug\Task2.exe.config
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\bin\Debug\Task2.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\bin\Debug\Task2.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\bin\Debug\EZInput.dll
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\bin\Debug\EZInput.xml
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.csproj.CopyComplete
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 4 PD\Task2\obj\Debug\Task2.pdb

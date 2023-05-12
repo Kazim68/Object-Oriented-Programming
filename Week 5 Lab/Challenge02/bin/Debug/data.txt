@@ -1,0 +1,2 @@
+kazim,123,Admin
+AAA,000,Customer

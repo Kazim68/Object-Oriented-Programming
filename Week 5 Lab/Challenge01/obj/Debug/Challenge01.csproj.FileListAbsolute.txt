@@ -1,0 +1,8 @@
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\bin\Debug\Challenge01.exe.config
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\bin\Debug\Challenge01.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\bin\Debug\Challenge01.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\obj\Debug\Challenge01.csproj.AssemblyReference.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\obj\Debug\Challenge01.csproj.SuggestedBindingRedirects.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\obj\Debug\Challenge01.csproj.CoreCompileInputs.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\obj\Debug\Challenge01.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 5 Lab\Challenge01\obj\Debug\Challenge01.pdb
