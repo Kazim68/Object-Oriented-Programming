@@ -1,0 +1,8 @@
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\bin\Debug\Game.exe.config
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\bin\Debug\Game.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\bin\Debug\Game.pdb
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\obj\Debug\Game.exe
+E:\Abdur rehman\ARK\Programming\2nd Semester\C# OOPS\Week 6 Lab\Game\obj\Debug\Game.pdb
