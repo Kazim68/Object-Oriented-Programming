@@ -14,6 +14,7 @@ namespace Game.BL
         public Boundary premises;
         public string direction;
         public char[,] body;
+        public string patrolDirection;
 
         // default constructor
         public GameObject()
@@ -22,6 +23,7 @@ namespace Game.BL
             this.startingPoint = new Point();
             this.premises = new Boundary();
             this.direction = "LeftToRight";
+            this.patrolDirection = "right";
             makeBody();
         }
 
@@ -32,6 +34,7 @@ namespace Game.BL
             this.startingPoint = startingPoint;
             this.premises = new Boundary();
             this.direction = "LeftToRight";
+            this.patrolDirection = "right";
             makeBody();
         }
 
@@ -42,6 +45,7 @@ namespace Game.BL
             this.startingPoint = startingPoint;
             this.premises = premises;
             this.direction = direction;
+            this.patrolDirection = "right";
             makeBody();
         }
 
@@ -61,22 +65,18 @@ namespace Game.BL
         // left to right
         public void leftToRight()
         {
-            int x = this.startingPoint.getX();
-            while (x < this.premises.bottomRight.getX())
+            if (this.startingPoint.getX() < this.premises.bottomRight.getX()-1)
             {
-                GameObjectUI.printCharacter(x, this.startingPoint.getY(), this.shape);
-                this.startingPoint.setX(x + 1);
+                this.startingPoint.setX(this.startingPoint.getX() + 1);
             }
         }
 
         // right to left
         public void rightToLeft()
         {
-            int x = this.startingPoint.getX();
-            while (x > this.premises.bottomLeft.getX())
+            if (this.startingPoint.getX() > this.premises.bottomLeft.getX()+1)
             {
-                GameObjectUI.printCharacter(x, this.startingPoint.getY(), shape);
-                this.startingPoint.setX(x - 1);
+                this.startingPoint.setX(this.startingPoint.getX() - 1);
             }
         }
 
@@ -84,8 +84,10 @@ namespace Game.BL
         // towards left and reverses direction
         public void patrol()
         {
-            this.leftToRight();
-            this.rightToLeft();
+            if (this.patrolDirection == "right") {this.leftToRight();}
+            else {this.rightToLeft();}
+            if (this.startingPoint.getX() == this.premises.bottomRight.getX()-1) { this.patrolDirection = "left"; }
+            else if (this.startingPoint.getX() == this.premises.bottomLeft.getX() + 1) { this.patrolDirection = "right"; }
         }
 
         // projectile motion
@@ -116,14 +118,9 @@ namespace Game.BL
         // from starting point to the bottom right diagonal
         public void diagonal()
         {
-            int y;
-            int x = this.startingPoint.getX();
-            while (this.startingPoint.getX() < this.premises.bottomRight.getX())
+            if (this.startingPoint.getX() < this.premises.bottomRight.getX()-1)
             {
-                x++;
-                y = this.diagonalEquation(x);
-                GameObjectUI.printCharacter(x, y, shape);
-                this.startingPoint.setXY(x, y);
+                this.startingPoint.setXY(this.startingPoint.getX() + 1, this.diagonalEquation(this.startingPoint.getX() + 1)) ;
             }
         }
 

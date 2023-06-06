@@ -1,0 +1,8 @@
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\bin\Debug\Task2.exe.config
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\bin\Debug\Task2.exe
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\bin\Debug\Task2.pdb
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\obj\Debug\Task2.exe
+A:\Programming\2nd Semester\C# OOPS\Week 8 Lab\Task2\obj\Debug\Task2.pdb

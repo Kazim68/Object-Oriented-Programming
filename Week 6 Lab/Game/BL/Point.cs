@@ -22,10 +22,10 @@ namespace Game.BL
         }
 
         // get the value of x coordinate
-        public int getX() { return x; }
+        public int getX() { return this.x; }
 
         // get the value of y coordinate
-        public int getY() { return y; }
+        public int getY() { return this.y; }
 
         // set value of x-coordinate
 
