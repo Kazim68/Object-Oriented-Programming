@@ -1,0 +1,11 @@
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\bin\Debug\Task.exe.config
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\bin\Debug\Task.exe
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\bin\Debug\Task.pdb
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.Form1.resources
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.Properties.Resources.resources
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.csproj.GenerateResource.cache
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.exe
+A:\Programming\2nd Semester\C# OOPS\Week 9 Lab\Task\obj\Debug\Task.pdb

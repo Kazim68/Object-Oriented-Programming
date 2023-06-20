@@ -1,0 +1,11 @@
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\bin\Debug\Pacman.exe.config
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\bin\Debug\Pacman.exe
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\bin\Debug\Pacman.pdb
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.csproj.SuggestedBindingRedirects.cache
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.exe
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.pdb
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\bin\Debug\EZInput.dll
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\bin\Debug\EZInput.xml
+A:\Programming\2nd Semester\C# OOPS\Week 10 Lab\Pacman\obj\Debug\Pacman.csproj.CopyComplete
